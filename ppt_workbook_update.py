@@ -2,6 +2,7 @@ import tempfile
 import io
 import zipfile
 import os
+import osax
 import re
 import shutil
 from pptx import Presentation
